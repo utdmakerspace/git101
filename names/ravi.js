@@ -1,6 +1,6 @@
 function main()
 {
-    console.log("Ravi just made a pull request!");
+    console.log("Raviteja just made a pull request!");
 }
 
 main()
