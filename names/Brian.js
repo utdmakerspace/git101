@@ -1,5 +1,5 @@
 function main() 
 {               
-    console.log("I'm about to commit a change");            
+    console.log("Brian just sent a pull request!");            
 }   
 main()
